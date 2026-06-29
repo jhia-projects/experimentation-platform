@@ -1,2 +1,11 @@
 # Data directory
 /data/
+
+# Virtual environment
+.venv/
+
+# uv
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
